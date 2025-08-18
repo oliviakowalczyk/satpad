@@ -1,0 +1,76 @@
+{
+    "descriptions": [
+		{
+			"dataType": "func",
+        "modalityLabel": "bold",
+        "customLabels": "task-rest",
+        "criteria": {
+			"SeriesDescription": "Spine Resting fMRI"
+            }
+        },
+	{
+			"dataType": "func",
+        "modalityLabel": "bold",
+        "customLabels": "task-rest",
+        "criteria": {
+			"SeriesDescription": "Resting fMRI with SATPAD"
+            }
+        },
+	{
+			"dataType": "func",
+        "modalityLabel": "bold",
+        "customLabels": "task-rest",
+        "criteria": {
+			"SeriesDescription": "Resting fMRI no SATPAD"
+            }
+        },
+	{
+			"dataType": "func",
+        "modalityLabel": "bold",
+        "customLabels": "task-rest",
+        "criteria": {
+			"SeriesDescription": "fMRI-withXYZ"
+            }
+        },
+	{
+			"dataType": "func",
+        "modalityLabel": "bold",
+        "customLabels": "task-2vol",
+        "criteria": {
+			"SeriesDescription": "fMRI-2vol"
+            }
+        },
+	{
+			"dataType": "func",
+        "modalityLabel": "bold",
+        "customLabels": "task-2vol",
+        "criteria": {
+			"SeriesDescription": "fMRI-2vol-withSATPAD"
+            }
+        },
+	{
+			"dataType": "func",
+        "modalityLabel": "bold",
+        "customLabels": "task-2vol",
+        "criteria": {
+			"SeriesDescription": "fMRI-2vol-noSATPAD"
+            }
+        },
+	{
+			"dataType": "func",
+        "modalityLabel": "bold",
+        "customLabels": "task-2vol",
+        "criteria": {
+			"SeriesDescription": "2vol-fMRI"
+            }
+        },
+        {
+			"dataType": "anat",
+        "modalityLabel": "T2w",
+        "customLabels": "",
+        "criteria": {
+			"SeriesDescription": "T2w"
+                     }
+        }
+	]
+}
